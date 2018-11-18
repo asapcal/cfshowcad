@@ -1,0 +1,31 @@
+Prezado Asaph, boa tarde! Tudo Bem?
+
+Me chamo Mailson, e integro a equipe da Convés Web.
+
+Abaixo estão as instruções para o nosso desafio.
+
+Nosso prazo é de 5 dias corridos.
+Você deverá construir uma API em PHP para um catálogo de tipos de cafés.
+
+Sua aplicação deve possuir três endpoints:
+- Cadastro de um café (a bebida possui id, nome e descrição como atributos).
+- Listagem de todos os cafés cadastrados
+- Pesquisa de um café por id
+Não deve ser possível cadastrar o mesmo café duas vezes.
+Cada endpoint deve utilizar o verbo correto para a ação correspondente.
+As respostas da API devem ser um JSON válido.
+Seu projeto deve conter um README com instruções de como realizar o build.
+O projeto deve ficar em um repositório público como github ou bitbucket.
+Sua aplicação deve persistir as informações em um banco de dados relacional.
+Link com alguns exemplos de cafés para se basear:
+https://www.loucodocafe.com.br/tipos-de-cafe/
+Nosso ambiente envolve as seguintes ferramentas:
+
+HTML
+CSS
+PHP (versões 5.6 e 7.x)
+MySQL
+Javascript
+Git
+
+Caso tenho alguma dúvida, sinta-se a vontade para responder esse e-mail
