@@ -1,6 +1,6 @@
 <h3>API para cadastro de cafes!</h3>
   
- Intruções básicas para o build da api cafeshowproj
+ Instruções básicas para o build da api cafeshowproj
  
 -Instalar o programa XAMPP para simulação de um servidor(Apache/MySQL)
 -Importar a tabela(cafescad.sql) para um servdior de nome (cafecadastro)
