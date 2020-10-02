@@ -8,4 +8,4 @@
 -Após importar a tabela (cafescad.sql) para o BD (cafecadastro), abrimos o site
 -Colocar a pasta cafeshowproj na pasta htdocs,presente na pasta C:\xampp\htdocs
 -Abrir um browser(Chrome,Firefox,Opera) e digitar na URL (localhost)
--Abrir a pasta: cafeshowproj.
+-Abrir a pasta: cafesproj.
