@@ -1,0 +1,10 @@
+usando console mysql/mariadb
+
+1 - create database cafecadastro;
+2 - use cafecadastro;
+3 - create table cafescad(
+    -> idcf int primary key not null,
+    -> nomecf varchar(40) not null,
+    -> desccf tinytext);
+    
+ e pronto, a api deve funcionar perfeitamente agr! 
