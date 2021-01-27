@@ -2,7 +2,6 @@
 	header('Content-Type: json_decode(json)');
 	header('Character-Encoding: utf-8');
 
-
 	    $hostname = "localhost";
 	    $user = "root";
 	    $password = "";
