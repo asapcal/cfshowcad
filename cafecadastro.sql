@@ -42,7 +42,7 @@ CREATE TABLE IF NOT EXISTS `cafescad` (
 
 INSERT INTO `cafescad` (`idcf`, `nomecf`, `desccf`) VALUES
 (1, 'CafÃ© Espresso', 'O cafÃ© espresso (ou expresso, dependendo da preferÃªncia de escrita) Ã© um dos principais tipos de cafÃ© â€“ e Ã© a base de diversos outros. O nome â€œespressoâ€ vem do italiano â€œespremido, pressionadoâ€.'),
-(2, 'CafÃ© da Luzia', 'Ã‰ um cafÃ© que tem sabor da roÃ§a, ideal para consumo muito quente e doce. Costuma ser suave e Ã© muito saboroso. Recomendado consumir em pequenas quantidades'),
+(2, 'CafÃ© da Casa', 'Ã‰ um cafÃ© que tem sabor da roÃ§a, ideal para consumo muito quente e doce. Costuma ser suave e Ã© muito saboroso. Recomendado consumir em pequenas quantidades'),
 (3, 'CafÃ© Ristretto', 'O ristretto Ã© uma versÃ£o mais concentrada do cafÃ© espresso padrÃ£o. Entre os tipos de cafÃ© mais populares, Ã© o que apresenta maior intensidade. Basicamente, trata-se da extraÃ§Ã£o da mesma quantidade.'),
 (4, 'CafÃ© Latte', 'O CafÃ© Latte nÃ£o Ã© exatamente uma forma sofisticada de se tratar do cafÃ© com leite. Em sua receita, utiliza-se leite vaporizado misturado a uma dose de cafÃ© espresso, alÃ©m de 1 cm de espuma sobre ele.'),
 (5, 'Cappuccino', 'Sua receita inclui uma dose de cafÃ© espresso misturado com leite vaporizado, espuma de leite e chocolate em pequenos pedaÃ§os ou em pÃ³ sobre a bebida.');
