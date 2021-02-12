@@ -1,7 +1,5 @@
-<h3>API para cadastro de cafes!</h3>
-  
+<h3>API de cadastro simples!</h3>
  Para o build da api
- 
--Instalar o programa como o XAMPP(Apache/MySQL)
--Importar a tabela(cafescad.sql) -> (cafecadastro)
--Abrir um browser(Chrome,Firefox,Opera) e executar via localhost.. :)
+-Instalar o programa como o XAMPP/WAMPP/ETC(Apache/MySQL)
+-Importar tabela(cafescad.sql) -> (cafecadastro)
+-e executar via localhost em qualquer navegador web.. :)
